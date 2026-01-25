@@ -44,4 +44,4 @@ Turning ideas into systems and code into impact.
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yannarr&theme=github-compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=yannarr&style=flat-square) -->
 
-> *Built with good vibes and sleepless nights 😎⚡*
+
