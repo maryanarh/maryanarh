@@ -8,12 +8,8 @@ Turning ideas into systems and code into impact.
 ## 🚀 About Me
 - 🎓 BSc. Data Science & Analytics @ USIU-A 
 - 🛠️ Currently building: 
-  - **[AI Content Factory]** – Automating video creation with LangChain & CrewAI
 - 📈 Focus: Machine Learning | Neural Networks | Scalable AI Systems | Quant Models
-- 💬 Motto: _“If it ain’t automating, it’s stagnating.”_
-
 ---
-
 ## 💼 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
@@ -35,18 +31,6 @@ Turning ideas into systems and code into impact.
 --- 
 -->
 
-##  Projects
-
-
-🔹 [AI Content Factory](https://github.com/yourproject) – LangChain + CrewAI powered AI media engine  
-🔹 [Campus Shuttle Tracker](https://github.com/yourproject) – Real-time GPS transport system  
-🔹 [Quant Algo Lab](https://github.com/yourproject) – Trading algos, backtesting & ML predictions  
-🔹 [Streamlit Analytics Dashboards](https://github.com/yourproject) – No-code data insights  
-🔹 [NLP Chatbot with LangChain](https://github.com/yourproject) – Fine-tuned transformer-powered assistant  
-🔹 [Portfolio Website](https://github.com/yourproject) – Your personal brand, deployed with style
-
----
-
 ## 🧠 Let’s Connect & Collaborate
 
 📫 Reach me: [Email](markogem4@email.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
@@ -54,8 +38,6 @@ Turning ideas into systems and code into impact.
 🎯 Fun Fact: I debug dreams into deliverables 🌌
 
 ---
-
-![Quote](https://img.shields.io/badge/-“Stay%20curious,%20break%20things,%20build%20better.”-black?style=flat)
 
 ---
 
