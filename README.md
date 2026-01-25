@@ -1,15 +1,15 @@
-# Hey there, I'm Mark Mayana 👩‍💻
+# Hey there, I'm Mark Mayana.
 
-✨ Aspiring Data Scientist | 🧠 AI Innovator |   
+Data Scientist | 🧠 AI Innovator |   
 Turning ideas into systems and code into impact.
 
 ---
 
 ## 🚀 About Me
 - 🎓 BSc. Data Science & Analytics @ USIU-A 
-- 🛠️ Currently building: 
 - 📈 Focus: Machine Learning | Neural Networks | Scalable AI Systems | Quant Models
 ---
+
 ## 💼 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
