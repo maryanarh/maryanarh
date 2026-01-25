@@ -1,6 +1,6 @@
 # Hey there, I'm Mark Mayana.
 
-Data Scientist | 🧠 AI Innovator |   
+Data Scientist  
 Turning ideas into systems and code into impact.
 
 ---
