@@ -15,10 +15,16 @@ Turning ideas into systems and code into impact.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-ai-blue?style=flat&logo=openai&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%2300E88F.svg?style=flat&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=flat&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-app-red?style=flat&logo=streamlit)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=NumPy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=flat&logo=Seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 
 ---
 
