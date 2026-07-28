@@ -30,8 +30,6 @@ Turning ideas into systems and code into impact.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Banes-FFBE00?style=flat&logo=weave&logoColor=black)
 
 ---
 
