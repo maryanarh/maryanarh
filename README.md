@@ -1,6 +1,6 @@
 # Hey there, I'm Mark Mayana.
 
-Data Scientist  
+Data Science and Data Analysis 
 Turning ideas into systems and code into impact.
 
 ---
