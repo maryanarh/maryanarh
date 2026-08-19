@@ -49,6 +49,8 @@ I'm a **Data Scientist & ML Researcher** focused on taking statistical modeling,
 **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+
 ---
 
 <!--## 📊 Stats That Slap
@@ -59,7 +61,7 @@ I'm a **Data Scientist & ML Researcher** focused on taking statistical modeling,
 
 --- 
 -->
-
+---
 ## 🧠 Let’s Connect & Collaborate
 
 📫 Reach me: [Email](markogem4@email.com) | [LinkedIn](https://www.linkedin.com/in/mark-mayana-366695191/)  
