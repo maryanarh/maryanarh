@@ -1,6 +1,6 @@
 # Hey there, I'm Mark Mayana.
 
-Data Scientist | ML Researcher | Quantitative Analyst
+Data Scientist | ML Researcher | Quantitative Analyst|
 Turning ideas into systems and code into impact.
 
 ---
@@ -14,8 +14,6 @@ I'm a **Data Scientist & ML Researcher** focused on taking statistical modeling,
 - 🛠️ **Current Endeavors:** Building robust ML models, engineering feature-rich datasets, and transforming raw data into actionable decision systems.
 - 💡 **Philosophy:** Bridging the gap between complex mathematical theory and clean, production-ready code.
 ---
-
-## 💼 Tech Stack
 
 ## 💼 Tech Stack
 
@@ -63,7 +61,7 @@ I'm a **Data Scientist & ML Researcher** focused on taking statistical modeling,
 
 ## 🧠 Let’s Connect & Collaborate
 
-📫 Reach me: [Email](markogem4@email.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+📫 Reach me: [Email](markogem4@email.com) | [LinkedIn](https://www.linkedin.com/in/mark-mayana-366695191/)  
 🤝 Open to: Collabs, Internships, Remote Dev Roles, AI Startup Gigs  
 🎯 Fun Fact: I debug dreams into deliverables 🌌
 
