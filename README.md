@@ -1,6 +1,6 @@
 # Hey there, I'm Mark Mayana.
 ---
-Data Scientist | ML Researcher | Quantitative Analyst|
+Data Scientist | ML Researcher | Quantitative Analyst| Gen AI Developer.
 ---
 Turning ideas into systems and code into impact.
 
